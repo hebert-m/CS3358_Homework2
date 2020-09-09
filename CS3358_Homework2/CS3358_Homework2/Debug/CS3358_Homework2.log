@@ -1,0 +1,8 @@
+﻿  CS3358_Homework2.cpp
+  dictionary.cpp
+c:\users\matthew\source\repos\cs3358_homework2\cs3358_homework2\dictionary.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\source\repos\cs3358_homework2\cs3358_homework2\dictionary.cpp(81): warning C4018: '>': signed/unsigned mismatch
+  nth_root_finder.cpp
+  search.cpp
+  Generating Code...
+  CS3358_Homework2.vcxproj -> C:\Users\Matthew\source\repos\CS3358_Homework2\Debug\CS3358_Homework2.exe
